@@ -13,7 +13,6 @@ $response = array(
 	'tested'        => '',
 	'requires_php'  => '7.4',
 	'compatibility' => new stdClass(),
-	'headers' => $_SERVER
 );
 
 header('Content-Type: application/json');
